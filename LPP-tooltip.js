@@ -48,7 +48,7 @@ $svgLink.mouseover(function () {
  var name = outcome.name,
  oldPrice = outcome.price,
  promoPrice = outcome.promo_price,
- prodDescription = "<span id="spanName"> + name + "</span>",
+ prodDescription = "<span id='spanName'>" + name + "</span>",
  prodPrice;
 
  if (oldPrice > promoPrice && promoPrice !== 0) {
