@@ -122,6 +122,12 @@ text-decoration: line-through;
 
 // -------------- HTML DO TEGO:
 
+<!--[if IE]>
+<style>
+ svg { display: none; }
+</style>
+<![endif]-->
+
 <div class="re-tooltip">
     <div class="product-description"></div>
     <div class="product-price"></div>
