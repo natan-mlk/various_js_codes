@@ -119,3 +119,10 @@ function playPlayer(playerName) {
         }
     });
 })(jQuery, window);
+
+
+// HTML DO TEGO: 
+
+    <div class="campaign-yt-video">
+        <div id="yt-video-eyes"></div>
+    </div>
