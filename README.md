@@ -1,2 +1,2 @@
 # various_js_codes
-notes
+My JavaScript and jQuery codes that I have written for LPP's webpages
